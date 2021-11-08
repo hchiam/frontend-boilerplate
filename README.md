@@ -4,9 +4,7 @@ Using a set of boilerplate files when you're starting a website project can be a
 
 I wanted to share my own boilerplate that I use for simple front-end websites that use HTML, SCSS, and JavaScript. And I'm using Gulp 4 to compile, prefix, and minify my files.
 
-I also wrote a rather detailed walkthrough on how to get up and running with Gulp 4, as well as migration tips from Gulp 3.
-
-You can read that on my blog [here](https://coder-coder.com/gulp-4-walk-through).
+I also wrote a rather detailed walkthrough on how to get up and running with Gulp 4, as well as migration tips from Gulp 3. You can read that on my blog [here](https://coder-coder.com/gulp-4-walk-through).
 
 ## Quickstart guide
 
@@ -15,7 +13,7 @@ You can read that on my blog [here](https://coder-coder.com/gulp-4-walk-through)
 - Run `npm install`
 - Run `gulp` to run the default Gulp task
 
-In this proejct, Gulp is configured to run the following functions:
+In this project, Gulp is configured to run the following functions:
 
 - Compile the SCSS files to CSS
 - Autoprefix and minify the CSS file
