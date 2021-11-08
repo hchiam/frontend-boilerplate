@@ -10,6 +10,7 @@ I also wrote a rather detailed walkthrough on how to get up and running with Gul
 
 - Clone or download this Git repo onto your computer.
 - Install [Node.js](https://nodejs.org/en/) if you don't have it yet.
+- Install gulp if you don't have it yet: `npm install gulp-cli -g` or `yarn global add gulp-cli`
 - Run `npm install`
 - Run `gulp` to run the default Gulp task
 
